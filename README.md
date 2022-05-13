@@ -13,5 +13,5 @@ I am passionate about mobile application developing and I am currently focused o
 ---
 
 
-- [LinkedIn](https://www.github.com/safaktepe)
+- [LinkedIn](https://www.linkedin.com/in/safaktepemert)
 - <a href="mailto:safaktepemert@gmail.com">E-mail</a>
