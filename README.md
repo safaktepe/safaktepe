@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2 align="center">
+Hi!  &nbsp I am Mert </a> 👋
+</h2>
 
-<!--
-**safaktepe/safaktepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about mobile application developing and I am currently focused on iOS development with Swift.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :man_student: B.Sc. degree in Computer Engineering.
+- 🌱 I’m creative, open mindend and easy going person.
+- :writing_hand: I have experience with MVVM architecture and OOP.
+- 💬 Even though Swift is my favorite language, I also have some experience with Java, Android Development and C#. 
+- :mountain_snow: I also started to learn about Javascript recently. -in my free times.
+---
+
+
+- [LinkedIn](https://www.github.com/safaktepe)
+- <a href="mailto:safaktepemert@gmail.com">E-mail</a>
