@@ -3,7 +3,7 @@ Hi!  &nbsp I am Mert </a> 👋
 </h2>
 
 
-- :man_student: B.Sc. degree in Computer Engineering.
+- :man_student: B.Sc. degree in Computer Science.
 - 🌱 I’m creative, open mindend and easy going person.
 ---
 
